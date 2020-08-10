@@ -1,4 +1,4 @@
-.text-color  { color : lightblue}
+.text-color  { color :lightslategray}
 .text-color-white  { color : white}
 .underline { text-decoration: underline;}
 .size { font-size: 80px;}
@@ -31,11 +31,38 @@
   }
    .center4 {
     position: absolute;
-    top: 80%;
+    top: 78%;
     width: 100%;
     text-align: center;
     font-size: 35px;
   }
+  .center5 {
+    position: absolute;
+    top: 81%;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+  }
+  .center6 {
+    position: absolute;
+    top: 85%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+  }
+  .center7 {
+    position: absolute;
+    top: 90%;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+  }
+  .menu {
+    color :lightslategray;
+    text-align: right ;
+    font-size: 25px;
+  }
   body {
-    background-image: url("https://github.com/godkor200/web/blob/master/IMG_7317.jpeg?raw=true") no-repeat);
+    background: url(file:///Users/yubyeong-gug/Desktop/web/HTML%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8/IMG_7317.jpeg) no-repeat;
+    background-size: cover;
   }
