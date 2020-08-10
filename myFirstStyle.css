@@ -58,11 +58,9 @@
     font-size: 35px;
   }
   .menu {
-    color :lightslategray;
     text-align: right ;
     font-size: 25px;
   }
-  body {
-    background: url(https://github.com/godkor200/web/blob/master/IMG_7317.jpeg?raw=true) no-repeat;
-    background-size: cover;
-  }
+  .serif {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+  };
