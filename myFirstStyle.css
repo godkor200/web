@@ -1,0 +1,41 @@
+.text-color  { color : blue}
+.text-color-white  { color : white}
+.underline { text-decoration: underline;}
+.size { font-size: 80px;}
+.center {
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+  }
+  .center1 {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 80px
+  }
+    .center2 {
+    position: absolute;
+    top: 70%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+  }
+    .center3 {
+    position: absolute;
+    top: 75%;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+  }
+   .center4 {
+    position: absolute;
+    top: 80%;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+  }
+  body {
+    background-image: url("/Users/yubyeong-gug/Desktop/web/HTML 연습/IMG_7317.jpeg");
+  }
