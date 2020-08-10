@@ -37,5 +37,9 @@
     font-size: 35px;
   }
   body {
-    background-image: url("https://github.com/godkor200/web/blob/master/IMG_7317.jpeg?raw=true");
-  }
+    height: 0;
+    padding-top: 47.2%; 
+    /* 이미지높이px ÷ 이미지넓이px ×100 = 472px ÷ 1000px×100 = 47.2% */
+    background: url("https://github.com/godkor200/web/blob/master/IMG_7317.jpeg?raw=true")) no-repeat center;
+    background-size: contain;
+}
